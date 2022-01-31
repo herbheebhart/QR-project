@@ -55,7 +55,8 @@ body{
     border: 2px solid white;
 }
 .container h3{
-    font-size: 15px;
+    font-size: 10px;
+    text-align: center;
 }
 .container #Qr-btn:hover{
     background: #c0c0c0;
